@@ -1,0 +1,13 @@
+{
+  "name": "duo-arena-missions",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "three": "0.164.1",
+    "ws": "^8.18.3"
+  }
+}
