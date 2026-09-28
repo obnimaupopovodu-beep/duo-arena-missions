@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "start": "node server.mjs"
+    "start": "node apply-game-update.mjs && node server.mjs"
   },
   "dependencies": {
     "three": "0.164.1",
